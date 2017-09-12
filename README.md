@@ -4,6 +4,8 @@ In large measure, this week's homework rehashes your work with salaries in week 
 You'll answer the same questions, but use python to do so.
 Even if you are familiar with it, please do not use `pandas`.
 
+You will then create a few simple pictures, using methods of the "turtle" class.
+
 ## Salaries Revisited
 
 ### Downloading some data.
@@ -44,10 +46,18 @@ Hint: you've done this before.  You're answers had better match!
 
 ## Turtles
 
+Consult the documentation for the python `turtle` module:
+
+https://docs.python.org/3.6/library/turtle.html
+
 Using turtle and taking the pictures below as your model, fill in `t*.py` to create
+
 1. A pentagonal "tunnel"
 2. A checkerboard
-The angle-dependent shading is and/or rotating squares are a "bonus."
+
+I do not expect an exact match on the tunnel, but it should have 5 "sides" and spiral outwards.
+
+The angle-dependent shading and rotating squares are "bonuses."
 
 <img src="https://raw.githubusercontent.com/harris-ippp/03-salaries-turtles/master/img/pentagonal_tunnel.png" width="185"> <img src="https://raw.githubusercontent.com/harris-ippp/03-salaries-turtles/master/img/checkerboard.png"      width="200"> <img src="https://raw.githubusercontent.com/harris-ippp/03-salaries-turtles/master/img/tilting_checkers.png"  width="200">
 
