@@ -49,7 +49,7 @@ Using turtle and taking the pictures below as your model, fill in `t*.py` to cre
 2. A checkerboard
 The angle-dependent shading is and/or rotating squares are a "bonus."
 
-<img src="https://raw.githubusercontent.com/harris-ippp/03-salaries-turtles/master/img/pentagonal_tunnel.png" width="200"> <img src="https://raw.githubusercontent.com/harris-ippp/03-salaries-turtles/master/img/checkerboard.png"      width="200"> <img src="https://raw.githubusercontent.com/harris-ippp/03-salaries-turtles/master/img/tilting_checkers.png"  width="200">
+<img src="https://raw.githubusercontent.com/harris-ippp/03-salaries-turtles/master/img/pentagonal_tunnel.png" width="185"> <img src="https://raw.githubusercontent.com/harris-ippp/03-salaries-turtles/master/img/checkerboard.png"      width="200"> <img src="https://raw.githubusercontent.com/harris-ippp/03-salaries-turtles/master/img/tilting_checkers.png"  width="200">
 
 
 
@@ -67,6 +67,6 @@ Now go online to your GitHub page (with substitutions!), to check that everythin
 
 * https://github.com/MyGitHubName/hw-3-salaries-turtles
 
-You should have committed five files: `q01.py` to `q10.py`, `t1.py` and `t2.py`, and `checkerboard.ps` and `pentagon_tunnel.ps`.
+You should have committed fifteen files: `q01.py` to `q10.py`, `t1.py` and `t2.py`, and `checkerboard.ps` and `pentagon_tunnel.ps`.
 
 Make sure it's in before Wednesday October 18th at 1:30am!
