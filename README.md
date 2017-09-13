@@ -33,16 +33,16 @@ So: you will modify the files in the directory, and then send it back to GitHub.
 
 Hint: you've done this before.  You're answers had better match!
 
-1. Which salaried worker makes the most?
-2. How many employees does the city list?
-3. How many full-time workers are there in the file?
-4. How many part-time workers are there in the file?  (Check you work for 1, with 2 and 3.)
-5. What is the highest hourly wage in the city?
-6. Excluding the top four workers (who are doctors), what is the highest hourly wage?
-7. How many people work for the police department?
-8. How many of them are detectives?
-9. How much does the modal fireperson (employee of the fire department) make?
-10. What are the most common women's names for police officers (incl. detectives)?  (It's a tie with 35 of each.../)
+0. Which salaried worker makes the most?
+1. How many employees does the city list?
+2. How many full-time workers are there in the file?
+3. How many part-time workers are there in the file?  (Check you work for 1, with 2 and 3.)
+4. What is the highest hourly wage in the city?
+5. Excluding the top four workers (who are doctors), what is the highest hourly wage?
+6. How many people work for the police department?
+7. How many of them are detectives?
+8. How much does the median fireperson (employee of the fire department) make?  (Note that in HW this was _modal_.)
+9. What are the most common women's names for police officers (incl. detectives)?  (It's a tie with 35 of each.../)
 
 ## Turtles
 
@@ -77,6 +77,6 @@ Now go online to your GitHub page (with substitutions!), to check that everythin
 
 * https://github.com/MyGitHubName/hw-3-salaries-turtles
 
-You should have committed fifteen files: `q01.py` to `q10.py`, `t1.py` and `t2.py`, and `checkerboard.ps` and `pentagon_tunnel.ps`.
+You should have committed fifteen files: `q0.py` to `q9.py`, `t1.py` and `t2.py`, and `checkerboard.ps` and `pentagon_tunnel.ps`.
 
 Make sure it's in before Wednesday October 18th at 1:30am!
