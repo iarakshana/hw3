@@ -5,6 +5,8 @@ You'll answer the same questions, but use python to do so.
 
 Even if you are familiar with it, please do not use `pandas`.
 
+You will then create a few simple pictures, using methods of the "turtle" class.
+
 ## Salaries Revisited
 
 ### Retrieving the data.
@@ -30,25 +32,33 @@ The individual question files will in turn just do some list comprehension,
 
 Hint: you've done this before.  You're answers had better match!
 
-1. Which salaried worker makes the most?
-2. How many employees does the city list?
-3. How many full-time workers are there in the file?
-4. How many part-time workers are there in the file?  (Check you work for 1, with 2 and 3.)
-5. What is the highest hourly wage in the city?
-6. Excluding the top four workers (who are doctors), what is the highest hourly wage?
-7. How many people work for the police department?
-8. How many of them are detectives?
-9. How much does the modal fireperson (employee of the fire department) make?
-10. What are the most common women's names for police officers (incl. detectives)?  (It's a tie with 35 of each.../)
+0. Which salaried worker makes the most?
+1. How many employees does the city list?
+2. How many full-time workers are there in the file?
+3. How many part-time workers are there in the file?  (Check you work for 1, with 2 and 3.)
+4. What is the highest hourly wage in the city?
+5. Excluding the top four workers (who are doctors), what is the highest hourly wage?
+6. How many people work for the police department?
+7. How many of them are detectives?
+8. How much does the median fireperson (employee of the fire department) make?  (Note that in HW this was _modal_.)
+9. What are the most common women's names for police officers (incl. detectives)?  (It's a tie with 35 of each.../)
 
 ## Turtles
 
+Consult the documentation for the python `turtle` module:
+
+https://docs.python.org/3.6/library/turtle.html
+
 Using turtle and taking the pictures below as your model, fill in `t*.py` to create
+
 1. A pentagonal "tunnel"
 2. A checkerboard
-The angle-dependent shading is and/or rotating squares are a "bonus."
 
-<img src="https://raw.githubusercontent.com/harris-ippp/03-salaries-turtles/master/img/pentagonal_tunnel.png" width="200"> <img src="https://raw.githubusercontent.com/harris-ippp/03-salaries-turtles/master/img/checkerboard.png"      width="200"> <img src="https://raw.githubusercontent.com/harris-ippp/03-salaries-turtles/master/img/tilting_checkers.png"  width="200">
+I do not expect an exact match on the tunnel, but it should have 5 "sides" and spiral outwards.
+
+The angle-dependent shading and rotating squares are "bonuses."
+
+<img src="https://raw.githubusercontent.com/harris-ippp/03-salaries-turtles/master/img/pentagonal_tunnel.png" width="185"> <img src="https://raw.githubusercontent.com/harris-ippp/03-salaries-turtles/master/img/checkerboard.png"      width="200"> <img src="https://raw.githubusercontent.com/harris-ippp/03-salaries-turtles/master/img/tilting_checkers.png"  width="200">
 
 
 
@@ -66,6 +76,6 @@ Now go online to your GitHub page (with substitutions!), to check that everythin
 
 * https://github.com/MyGitHubName/hw-3-salaries-turtles
 
-You should have committed five files: `q01.py` to `q10.py`, `t1.py` and `t2.py`, and `checkerboard.ps` and `pentagon_tunnel.ps`.
+You should have committed fifteen files: `q0.py` to `q9.py`, `t1.py` and `t2.py`, and `checkerboard.ps` and `pentagon_tunnel.ps`.
 
 Make sure it's in before Wednesday October 18th at 1:30am!
