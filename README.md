@@ -2,17 +2,14 @@
 
 In large measure, this week's homework rehashes your work with salaries in week 1.
 You'll answer the same questions, but use python to do so.
+
 Even if you are familiar with it, please do not use `pandas`.
 
 ## Salaries Revisited
 
-### Downloading some data.
+### Retrieving the data.
 
-In class, we played with the city salaries file. 
-You can check out these data on the excellent [Chicago Data Portal](https://data.cityofchicago.org/Administration-Finance/Current-Employee-Names-Salaries-and-Position-Title/xzkq-xp2w).
-They have some nice interactive tools for grabbing and analyzing these data.
-We'll get into some of their APIs, later on.
-For now, we can just curl it:
+If you need to download it again, you can download the city salaries file like so:
 
 ```
 curl data.cityofchicago.org/api/views/xzkq-xp2w/rows.csv -s -o salaries.csv
@@ -22,10 +19,12 @@ curl data.cityofchicago.org/api/views/xzkq-xp2w/rows.csv -s -o salaries.csv
 
 You now have salaries.csv in your homework directory.
 The scripts `q*py` suggests formatting for stepping through these questions.
-Fill you answers in, there
-
-
-So: you will modify the files in the directory, and then send it back to GitHub.  Since you've made a copy of the repository by accepting the assignment, all of your work will be separate and will not interfere with your classmates.  We will see your edited files (provided that you uploaded them on git), and you can check this too, by navigating to your own repository on your GitHub page. 
+Fill you answers in, there following the format exactly -- we'll check this with a computer.
+All of the "salaries" questions require the same pre-formatting.
+You should implement that formatting a single time with a function in `helper.py`,
+  which you can import into the `q*.py` files.
+The individual question files will in turn just do some list comprehension,
+  and set the `solution` variable.
 
 #### Questions
 
