@@ -7,6 +7,9 @@ Even if you are familiar with it, please do not use `pandas`.
 
 You will then create a few simple pictures, using methods of the "turtle" class.
 
+The assignment is due Wednesday October 18th at 1:30am.
+
+
 ## Salaries Revisited
 
 ### Retrieving the data.
