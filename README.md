@@ -38,7 +38,7 @@ Hint: you've done this before.  You're answers had better match!
 2. How many full-time workers are there in the file?
 3. How many part-time workers are there in the file?  (Check you work for 1, with 2 and 3.)
 4. What is the highest hourly wage in the city?
-5. Excluding the top four workers (who are doctors), what is the highest hourly wage?
+5. Excluding the top three workers (who are doctors), what is the highest hourly wage?
 6. How many people work for the police department?
 7. How many of them are detectives?
 8. How much does the median fireperson (employee of the fire department) make?  (Note that in HW 1 this was _modal_.)
