@@ -7,15 +7,14 @@ Even if you are familiar with it, please do not use `pandas`.
 
 You will then create a few simple pictures, using methods of the "turtle" class.
 
+The assignment is due Wednesday October 18th at 1:30am.
+
+
 ## Salaries Revisited
 
 ### Retrieving the data.
 
-If you need to download it again, you can download the city salaries file like so:
-
-```
-curl data.cityofchicago.org/api/views/xzkq-xp2w/rows.csv -s -o salaries.csv
-```
+A copy of the `salaries.csv` files is included directly in your homework checkout, so that we'll all be working on the same copy.
 
 ### Exercises!
 
@@ -41,7 +40,7 @@ Hint: you've done this before.  You're answers had better match!
 6. How many people work for the police department?
 7. How many of them are detectives?
 8. How much does the median fireperson (employee of the fire department) make?  (Note that in HW 1 this was _modal_.)
-9. What are the most common women's names for police officers (incl. detectives)?  (It's a tie with 35 of each.../)
+9. What are the most common women's names for police officers (incl. detectives)?  There are 37 occurrences.
 
 ## Turtles
 
