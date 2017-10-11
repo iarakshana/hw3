@@ -40,7 +40,7 @@ Hint: you've done this before.  You're answers had better match!
 6. How many people work for the police department?
 7. How many of them are detectives?
 8. How much does the median fireperson (employee of the fire department) make?  (Note that in HW this was _modal_.)
-9. What are the most common women's names for police officers (incl. detectives)?  (It's a tie with 35 of each.../)
+9. What are the most common women's names for police officers (incl. detectives)?  There are 37 occurrences.
 
 ## Turtles
 
