@@ -1,5 +1,7 @@
 # Homework 3: Salaries Revisited and Turtles
 
+You can accept the assignment [here](https://classroom.github.com/assignment-invitations/acb6c296950cc73142b3ba923b8a35fc).
+
 In large measure, this week's homework rehashes your work with salaries in week 1.
 You'll answer the same questions, but use python to do so.
 
