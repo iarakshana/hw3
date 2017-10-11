@@ -14,11 +14,7 @@ The assignment is due Wednesday October 18th at 1:30am.
 
 ### Retrieving the data.
 
-If you need to download it again, you can download the city salaries file like so:
-
-```
-curl data.cityofchicago.org/api/views/xzkq-xp2w/rows.csv -s -o salaries.csv
-```
+A copy of the `salaries.csv` files is included directly in your homework checkout, so that we'll all be working on the same copy.
 
 ### Exercises!
 
