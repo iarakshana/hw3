@@ -44,7 +44,9 @@ Hint: you've done this before.  You're answers had better match!
 8. How much does the median fireperson (employee of the fire department) make?  (Note that in HW 1 this was _modal_.)
 9. What are the most common women's names for police officers (incl. detectives)?  There are 37 occurrences.
 
-## Turtles
+## Turtles - Bonus!
+
+Turtles can recuperate lost points, but not get you above 100%.
 
 Consult the documentation for the python `turtle` module:
 
@@ -77,6 +79,6 @@ Now go online to your GitHub page (with substitutions!), to check that everythin
 
 * https://github.com/MyGitHubName/hw-3-salaries-turtles
 
-You should have committed fifteen files: `q0.py` to `q9.py`, `t1.py` and `t2.py`, and `checkerboard.ps` and `pentagon_tunnel.ps`.
+You should have committed eleven salaries files (`helper.py` and `q0.py` to `q9.py`), plus any of the turtle files (`t1.py` and `t2.py`, and `checkerboard.ps` and `pentagon_tunnel.ps`).
 
 Make sure it's in before Wednesday October 18th at 1:30am!
