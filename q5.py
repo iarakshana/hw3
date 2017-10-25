@@ -13,6 +13,10 @@ def salaries_dict(vec):#using similar definiton from q1 for highest salary perso
         dict_sal[salary] = l
     return max(sorted(dict_sal.items(),reverse=True))
 
-salaries_dict(vec)
+print(salaries_dict(vec))
 
 solution = 53.90 # Non-medical highest.
+
+'''Grader Comments:
+Your solution is incorrect. Also, please return one value
+'''

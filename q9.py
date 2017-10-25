@@ -13,9 +13,13 @@ def salaries_dict(vec):
             dict_sal[salary] = l
         #print('dictsal',l)
     return sorted(dict_sal.items(), reverse=True)#return a sorted list of names
-    set(dict_sal.items)).count()#set can find the unique occurences and then use count for the modal names
+    set(dict_sal.items).count()#set can find the unique occurences and then use count for the modal names
 
 salaries_dict(vec)
 # Solution should contain the single
 # police officer name with 37 occurrences.
 solution = "JENNIFER"
+
+'''Grader Comments:
+Turn in with a syntax error. Even after that is fixed the code doesn't
+execute because you try to index a list like a dictionary.'''
